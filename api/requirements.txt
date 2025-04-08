@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+SQLAlchemy
+psycopg2-binary
+pydantic
+python-dotenv
+loguru
+asyncpg
+httpx
+fastapi-utilities
