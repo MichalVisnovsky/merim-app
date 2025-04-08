@@ -1,4 +1,5 @@
 import configparser
+
 from loguru import logger
 
 CFG_PATH = "./config.ini"

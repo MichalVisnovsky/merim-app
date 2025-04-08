@@ -1,5 +1,6 @@
-import uvicorn
 import os
+
+import uvicorn
 
 if __name__ == '__main__':
     # run server on localhost:8000 with auto-reload
